@@ -1,7 +1,7 @@
 # opensource-roblox
 An opensource project where changes connect to a game
 
-**This game can be copied at <https://www.roblox.com/games/16715461770/OpenSource-Project> (click Edit)**
+**This game can be copied at <https://www.roblox.com/games/16715461770/OpenSource-Project> (click the three dots, then click Edit)**
 
 ## Instructions
 Copy the game, make sure loadstring is enabled in the **ServerScriptService** (Explorer) and HTTP Requests are on in the **Game Settings** (>Security>Enable Http Requests).
