@@ -1,3 +1,4 @@
 [
-  "/src/index.lua"
+  "/src/index.lua",
+  "/src/loop.lua"
 ]
