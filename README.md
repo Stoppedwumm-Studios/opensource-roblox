@@ -6,7 +6,9 @@ An opensource project where changes connect to a game
 ## Instructions
 Copy the game, make sure loadstring is enabled in the **ServerScriptService** (Explorer) and HTTP Requests are on in the **Game Settings** (>Security>Enable Http Requests).
 
-Clone this repo and change the Repo Variable in the only Script in the ServerScriptService to your repo
+Clone this repo and change the Repo Variable in the only Script in the ServerScriptService to your repo.
+
+Create a release, and all servers will be shutdown to update. *Hint: All servers check in a 20 second interval for new releases*
 
 ## WARNING
 All files in the fileindex.json file will be **executed in the order they are inputed**. They will **not be saved as scripts, rather directly executed in the ServerScriptService**.
