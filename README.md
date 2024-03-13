@@ -11,4 +11,4 @@ Clone this repo and change the Repo Variable in the only Script in the ServerScr
 Create a release, and all servers will be shutdown to update. *Hint: All servers check in a 20 second interval for new releases*
 
 ## WARNING
-All files in the fileindex.json file will be **executed in the order they are inputed**. They will **not be saved as scripts, rather directly executed in the ServerScriptService**.
+They will be saved as Scripts in the ServerScriptService.
