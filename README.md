@@ -11,4 +11,4 @@ Clone this repo and change the Repo Variable in the only Script in the ServerScr
 Create a release, and all servers will be shutdown to update. *Hint: All servers check in a 20 second interval for new releases*
 
 ## WARNING
-They will be saved as Scripts in the ServerScriptService.
+They will be saved as Scripts in the ServerScriptService. I'm going to add client side too.
